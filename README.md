@@ -15,6 +15,6 @@ hi, i'm Riya, a passionate self-taught upcoming full stack web developer. Skille
 </li>
 </ul>
 <div align="center">
-<a href="https://www.linkedin.com/in/riya-bansal-0b4755238/" target="_blank"><img src="https://img.shields.io/badge/-Krati Goyal-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-kushagra2620/"></a>
-<a href="mailto:riyabansal3365@gmail.com"><img src="https://img.shields.io/badge/-gkrati04@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:riyabansal3365@gmail.com"></a>
+<a href="https://www.linkedin.com/in/riya-bansal-0b4755238/" target="_blank"><img src="https://img.shields.io/badge/-Riya Bansal-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-kushagra2620/"></a>
+<a href="mailto:riyabansal3365@gmail.com"><img src="https://img.shields.io/badge/-riyabansal3365@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:riyabansal3365@gmail.com"></a>
  </div>
